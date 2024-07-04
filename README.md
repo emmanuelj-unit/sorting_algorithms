@@ -114,6 +114,4 @@ Sorted array: 2 3 4 5 8
 
 Contributions are welcome! If you have any improvements or new algorithms to add, feel free to open a pull request. Please ensure your code follows the repository's coding standards and includes appropriate comments and documentation.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 
