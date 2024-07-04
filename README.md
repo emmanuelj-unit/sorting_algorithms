@@ -37,7 +37,7 @@ To compile and run the sorting algorithms, you need to have a C compiler install
 Clone the repository to your local machine using the following command:
 
 ```sh
-git clone https://github.com/yourusername/sorting-algorithms-c.git
+git clone https://github.com/emmanuelj-unit/sorting_algorithms.git
 ```
 
 Navigate to the project directory:
@@ -117,5 +117,3 @@ Contributions are welcome! If you have any improvements or new algorithms to add
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
